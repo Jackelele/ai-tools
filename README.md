@@ -15,12 +15,17 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 ## Chat
 
 - [ChatGPT](https://chat.openai.com/) - ChatGPT is a large language model created by OpenAI that is capable of generating human-like responses to natural language inputs. [FREE/PAID]
+- [Kuki AI](https://www.kuki.ai/) - Kuki is an AI-powered chatbot platform that enables businesses to create and deploy chatbots for customer service, sales, and marketing purposes. [FREE]
+
 
 ## Writing
 
 - [Copy.Ai](https://www.copy.ai/) - Copy Ai is an AI-powered writing tool that uses natural language processing to generate high-quality content quickly. Users can enter a prompt, select a style or tone, and generate multiple options for various types of written content. [FREE/PAID]
 - [Jasper AI](https://www.jasper.ai/) - Jasper is an AI-powered scheduling assistant that automates meeting scheduling and calendar management. [PAID]
 - [Fireflies](https://fireflies.ai/) - Fireflies is an AI-powered meeting assistant that automatically transcribes, summarizes, and analyzes meetings. [FREE/PAID]
+- [QuillBot](https://quillbot.com/) - QuillBot is an AI-powered writing tool that helps users paraphrase, summarize, and improve the clarity of their writing. [FREE/PAID]
+- [Addy AI](https://addy-ai.com/) - Addy is an A.I. email assistant that drafts your emails in seconds, with your preferred style and tone. [FREE/PAID]
+- [WTFDoesThisCompanyDo](https://wtfdoesthiscompanydo.vercel.app/) - this world needs better copywriters for landing pages but till then we have good ol’ gpt-3 to help us out. [FREE]
 
 ## Video
 
