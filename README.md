@@ -6,7 +6,11 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 
  - [Chat](#Chat)
  - [Writing](#Writing)
+ - [Video](#Video)
+ - [Audio](#Audio)
+ - [Social Media](#Social-Media)
  - [Legal](#Legal) 
+ - [Tracking](#Tracking)
 
 ## Chat
 
@@ -15,12 +19,30 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 ## Writing
 
 - [Copy.Ai](https://www.copy.ai/) - Copy Ai is an AI-powered writing tool that uses natural language processing to generate high-quality content quickly. Users can enter a prompt, select a style or tone, and generate multiple options for various types of written content. [FREE/PAID]
+- [Jasper AI](https://www.jasper.ai/) - Jasper is an AI-powered scheduling assistant that automates meeting scheduling and calendar management. [PAID]
+- [Fireflies](https://fireflies.ai/) - Fireflies is an AI-powered meeting assistant that automatically transcribes, summarizes, and analyzes meetings. [FREE/PAID]
 
 ## Video
 
 - [Synthesia](https://www.synthesia.io/) - Synthesia is an AI-powered video generation platform that uses machine learning to create realistic videos from text inputs. The platform enables businesses to scale their video content creation process and provides a cost-effective solution for producing personalized videos at scale. [PAID]
 
+## Audio
+
+- [DeScript](https://www.descript.com/) - Descript is an audio and video editing platform that uses AI-powered transcription and editing tools to simplify the editing process. [FREE/PAID]
+
+
+## Images
+
+- [MidJourney](https://www.midjourney.com/app/feed/all/) - MidJourney is a customer journey mapping platform that helps businesses visualize and optimize their customer's journey. [FREE/PAID]
+
+## Social Media
+
+- [RePurpose](https://repurpose.io/) - Repurpose.io is a content distribution tool that allows you to automatically repurpose your live streams, podcasts, and videos into multiple pieces of content and share them across various social media platforms. [PAID]
+
 ## Legal
 
 - [DoNotPay](https://donotpay.com/) - The DoNotPay app is the home of the world's first robot lawyer.  [Free] (Mostly USA)
 
+## Tracking
+
+- [Timely AI](https://timelyapp.com/) - Timely is an AI-powered time tracking and scheduling platform that helps businesses optimize their time management. [PAID]
