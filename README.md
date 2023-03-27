@@ -5,18 +5,25 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 # Table of Contents
 
  - [Chat](#Chat)
+ - [Coding](#Coding)
  - [Writing](#Writing)
  - [Video](#Video)
  - [Audio](#Audio)
  - [Social Media](#Social-Media)
  - [Legal](#Legal) 
  - [Tracking](#Tracking)
+ - [Health](#Health)
 
 ## Chat
 
 - [ChatGPT](https://chat.openai.com/) - ChatGPT is a large language model created by OpenAI that is capable of generating human-like responses to natural language inputs. [FREE/PAID]
 - [Kuki AI](https://www.kuki.ai/) - Kuki is an AI-powered chatbot platform that enables businesses to create and deploy chatbots for customer service, sales, and marketing purposes. [FREE]
+- [AskYourPDF](https://askyourpdf.com/) - AskYourPDF is an online tool that allows users to convert their PDF documents into interactive forms that can be filled out and signed electronically, making it easier for businesses to collect and manage data from clients and customers. [FREE]
 
+
+## Coding
+
+- [Chat Fuel](https://chatfuel.com/) - Chatfuel is a popular chatbot-building platform that enables businesses and individuals to create AI-powered chatbots for their websites, social media platforms, and messaging apps without any coding knowledge. [FREE/PAID]
 
 ## Writing
 
@@ -26,10 +33,14 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 - [QuillBot](https://quillbot.com/) - QuillBot is an AI-powered writing tool that helps users paraphrase, summarize, and improve the clarity of their writing. [FREE/PAID]
 - [Addy AI](https://addy-ai.com/) - Addy is an A.I. email assistant that drafts your emails in seconds, with your preferred style and tone. [FREE/PAID]
 - [WTFDoesThisCompanyDo](https://wtfdoesthiscompanydo.vercel.app/) - this world needs better copywriters for landing pages but till then we have good ol’ gpt-3 to help us out. [FREE]
+- [WriteSonic](https://writesonic.com/) - Writesonic is an AI-powered copywriting tool that generates high-quality marketing copy, product descriptions, ads, and blog posts for businesses, saving time and effort on content creation. [FREE/PAID]
+- [Taskade](https://www.taskade.com/) - Taskade is a real-time collaboration and productivity platform that helps teams to stay organized and get work done with features such as to-do lists, project management, and team communication tools. [FREE/PAID]
+- [SuperNormal](https://supernormal.com/) - Supernormal is a web and mobile design tool that uses AI to streamline and simplify the design process, enabling designers to create high-quality prototypes and user interfaces faster and more efficiently. [FREE/PAID]
 
 ## Video
 
 - [Synthesia](https://www.synthesia.io/) - Synthesia is an AI-powered video generation platform that uses machine learning to create realistic videos from text inputs. The platform enables businesses to scale their video content creation process and provides a cost-effective solution for producing personalized videos at scale. [PAID]
+- [Quinvio AI](https://www.quinv.io/ai) - Quinv is an AI-powered software platform that helps businesses automate their back-office operations, streamline processes, and improve decision-making through advanced analytics and data visualization. [FREE/PAID]
 
 ## Audio
 
@@ -39,6 +50,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 ## Images
 
 - [MidJourney](https://www.midjourney.com/app/feed/all/) - MidJourney is a customer journey mapping platform that helps businesses visualize and optimize their customer's journey. [FREE/PAID]
+- [DALL-E 2](https://openai.com/product/dall-e-2) - DALL-E is an AI-powered image generation program developed by OpenAI that can create high-quality, unique images from textual descriptions, ranging from animals and objects to scenes and abstract concepts. [FREE/PAID]
 
 ## Social Media
 
@@ -51,3 +63,13 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 ## Tracking
 
 - [Timely AI](https://timelyapp.com/) - Timely is an AI-powered time tracking and scheduling platform that helps businesses optimize their time management. [PAID]
+
+## Health
+
+- [Abi AI](https://abi.ai/) - Abi is an AI-powered health platform to assist you with medical questions. [FREE]
+- [Ada](https://ada.com/) - Ada is an AI-powered health platform that uses machine learning algorithms to provide personalized health assessments, symptom checking, and health information to individuals, empowering them to make informed decisions about their health. [FREE]
+
+## Travel
+
+- [Ready AI](http://ready.ai/) - Ready! utilizes sophisticated algorithm to provide the most updated travel time forecast and routing suggestions for future commutes. [FREE]
+- 
