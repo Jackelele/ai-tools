@@ -1,4 +1,4 @@
-# Awesome Artificial Intelligence Tools
+# Awesome Artificial Intelligence Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 The growth of AI and ML has enabled the processing of vast amounts of data and its utilization in various industries. Consequently, data scientists and developers now have access to a greater number of tools and frameworks. This list titled "Artificial Intelligence Tools" will outline some of these awesome resources:
 
@@ -85,3 +85,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 ## Metaverse
 
 - [Versey AI](https://www.versy.ai/) - Versy AI is an artificial intelligence-based platform that offers businesses a suite of solutions, including chatbots, virtual assistants, and automation tools, to improve customer engagement and operational efficiency. [FREE/Waitlist]
+
+## Contributing
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
