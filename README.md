@@ -13,6 +13,9 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
  - [Legal](#Legal) 
  - [Tracking](#Tracking)
  - [Health](#Health)
+ - [Travel](#Travel)
+ - [Metaverse](#Metaverse)
+ 
 
 ## Chat
 
@@ -36,13 +39,14 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 - [WriteSonic](https://writesonic.com/) - Writesonic is an AI-powered copywriting tool that generates high-quality marketing copy, product descriptions, ads, and blog posts for businesses, saving time and effort on content creation. [FREE/PAID]
 - [Taskade](https://www.taskade.com/) - Taskade is a real-time collaboration and productivity platform that helps teams to stay organized and get work done with features such as to-do lists, project management, and team communication tools. [FREE/PAID]
 - [SuperNormal](https://supernormal.com/) - Supernormal is a web and mobile design tool that uses AI to streamline and simplify the design process, enabling designers to create high-quality prototypes and user interfaces faster and more efficiently. [FREE/PAID]
+- [Caktus AI](https://www.caktus.ai/) - Caktus is the first ever educational artificial intelligence tool. It allows you to automate all of your school work so you can spend more time doing the things you love! [FREE]
 
 ## Video
 
 - [Synthesia](https://www.synthesia.io/) - Synthesia is an AI-powered video generation platform that uses machine learning to create realistic videos from text inputs. The platform enables businesses to scale their video content creation process and provides a cost-effective solution for producing personalized videos at scale. [PAID]
 - [Quinvio AI](https://www.quinv.io/ai) - Quinv is an AI-powered software platform that helps businesses automate their back-office operations, streamline processes, and improve decision-making through advanced analytics and data visualization. [FREE/PAID]
 - [RunwayML Gen2](https://research.runwayml.com/gen2) - RunwayML Gen2 is an AI-powered creative tool that enables artists and designers to create, train, and deploy machine learning models without requiring extensive coding knowledge. [FREE/PAID]
-- []() - D-ID is an AI-powered solution that helps businesses protect their customers' privacy by anonymizing facial images and videos using deep learning algorithms.
+- [D-ID](https://studio.d-id.com/) - D-ID is an AI-powered solution that helps businesses protect their customers' privacy by anonymizing facial images and videos using deep learning algorithms. [FREE/PAID]
 
 ## Audio
 
@@ -54,6 +58,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 
 - [MidJourney](https://www.midjourney.com/app/feed/all/) - MidJourney is a customer journey mapping platform that helps businesses visualize and optimize their customer's journey. [FREE/PAID]
 - [DALL-E 2](https://openai.com/product/dall-e-2) - DALL-E is an AI-powered image generation program developed by OpenAI that can create high-quality, unique images from textual descriptions, ranging from animals and objects to scenes and abstract concepts. [FREE/PAID]
+- [Nvidia Canvas](https://www.nvidia.com/en-us/studio/canvas/) - NVIDIA Canvas is an AI-powered app that enables digital artists to turn simple sketches into photorealistic landscapes, portraits, and abstract images. [FREE (BETA)]
 
 ## Social Media
 
@@ -75,4 +80,8 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 ## Travel
 
 - [Ready AI](http://ready.ai/) - Ready! utilizes sophisticated algorithm to provide the most updated travel time forecast and routing suggestions for future commutes. [FREE]
-- 
+
+
+## Metaverse
+
+- [Versey AI](https://www.versy.ai/) - Versy AI is an artificial intelligence-based platform that offers businesses a suite of solutions, including chatbots, virtual assistants, and automation tools, to improve customer engagement and operational efficiency. [FREE/Waitlist]
