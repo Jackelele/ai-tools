@@ -15,6 +15,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
  - [Health](#Health)
  - [Travel](#Travel)
  - [Metaverse](#Metaverse)
+ - [SEO](#SEO)
  
 
 ## Chat
@@ -27,6 +28,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 ## Coding
 
 - [Chat Fuel](https://chatfuel.com/) - Chatfuel is a popular chatbot-building platform that enables businesses and individuals to create AI-powered chatbots for their websites, social media platforms, and messaging apps without any coding knowledge. [FREE/PAID]
+- [Leap AI](https://www.tryleap.ai/) - Drag and drop to build AI workflows without writing any code. Run your automations or integrate them to your apps via our API. [FREE/PAID]
 
 ## Writing
 
@@ -40,6 +42,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 - [Taskade](https://www.taskade.com/) - Taskade is a real-time collaboration and productivity platform that helps teams to stay organized and get work done with features such as to-do lists, project management, and team communication tools. [FREE/PAID]
 - [SuperNormal](https://supernormal.com/) - Supernormal is a web and mobile design tool that uses AI to streamline and simplify the design process, enabling designers to create high-quality prototypes and user interfaces faster and more efficiently. [FREE/PAID]
 - [Caktus AI](https://www.caktus.ai/) - Caktus is the first ever educational artificial intelligence tool. It allows you to automate all of your school work so you can spend more time doing the things you love! [FREE]
+- [WorldTune](https://www.wordtune.com/) - Everyone has tons of work to get through. Some accept the frustration. Others choose Wordtune Generative AI to speed up their tasks. [FREE/PAID]
 
 ## Video
 
@@ -59,10 +62,13 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 - [MidJourney](https://www.midjourney.com/app/feed/all/) - MidJourney is a customer journey mapping platform that helps businesses visualize and optimize their customer's journey. [FREE/PAID]
 - [DALL-E 2](https://openai.com/product/dall-e-2) - DALL-E is an AI-powered image generation program developed by OpenAI that can create high-quality, unique images from textual descriptions, ranging from animals and objects to scenes and abstract concepts. [FREE/PAID]
 - [Nvidia Canvas](https://www.nvidia.com/en-us/studio/canvas/) - NVIDIA Canvas is an AI-powered app that enables digital artists to turn simple sketches into photorealistic landscapes, portraits, and abstract images. [FREE (BETA)]
+- [Segmind](https://www.segmind.com/) - Segmind helps you deploy open source Generative AI models with the fastest APIs. [Free]
 
 ## Social Media
 
 - [RePurpose](https://repurpose.io/) - Repurpose.io is a content distribution tool that allows you to automatically repurpose your live streams, podcasts, and videos into multiple pieces of content and share them across various social media platforms. [PAID]
+- [VidIQ](https://vidiq.com/generate/) - AI Content Generator to accelerate your video creation process [FREE/PAID]
+- [WorldLift](https://wordlift.io/) - An AI-powered SEO tool that does the heavy lifting for you. [PAID]
 
 ## Legal
 
@@ -85,6 +91,12 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 ## Metaverse
 
 - [Versey AI](https://www.versy.ai/) - Versy AI is an artificial intelligence-based platform that offers businesses a suite of solutions, including chatbots, virtual assistants, and automation tools, to improve customer engagement and operational efficiency. [FREE/Waitlist]
+
+
+## SEO
+
+- [BlogSEO](https://www.blogseo.ai/) - BlogSEO AI lets you create holistic SEO content in 31 languages that drive organic traffic. [FREE/PAID]
+- [Seona AI](https://usestyle.ai/) - Your next digital marketing agency isn't an agency at all. Our AI tools make it easy to build and manage websites, SEO, and ad campaigns [FREE/PAID]
 
 ## Contributing
 
