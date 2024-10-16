@@ -43,6 +43,8 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 - [SuperNormal](https://supernormal.com/) - Supernormal is a web and mobile design tool that uses AI to streamline and simplify the design process, enabling designers to create high-quality prototypes and user interfaces faster and more efficiently. [FREE/PAID]
 - [Caktus AI](https://www.caktus.ai/) - Caktus is the first ever educational artificial intelligence tool. It allows you to automate all of your school work so you can spend more time doing the things you love! [FREE]
 - [WorldTune](https://www.wordtune.com/) - Everyone has tons of work to get through. Some accept the frustration. Others choose Wordtune Generative AI to speed up their tasks. [FREE/PAID]
+- [LogicBalls](https://www.logicballs.com/) - LogicBalls is an AI tool that helps businesses create high-quality marketing content, product descriptions, ads, social media posts, and blog posts, making content creation faster and easier
+
 
 ## Video
 
