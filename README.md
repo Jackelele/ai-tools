@@ -100,6 +100,8 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 
 - [BlogSEO](https://www.blogseo.ai/) - BlogSEO AI lets you create holistic SEO content in 31 languages that drive organic traffic. [FREE/PAID]
 - [Seona AI](https://usestyle.ai/) - Your next digital marketing agency isn't an agency at all. Our AI tools make it easy to build and manage websites, SEO, and ad campaigns [FREE/PAID]
+- [Gracker AI](https://www.gracker.ai/) - AI Editorial and Programmatic SEO solution for B2B Cybersecurity SaaS companies.[FREE/PAID]
+
 
 ## Contributing
 
