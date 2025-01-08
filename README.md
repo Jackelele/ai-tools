@@ -43,6 +43,8 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 - [SuperNormal](https://supernormal.com/) - Supernormal is a web and mobile design tool that uses AI to streamline and simplify the design process, enabling designers to create high-quality prototypes and user interfaces faster and more efficiently. [FREE/PAID]
 - [Caktus AI](https://www.caktus.ai/) - Caktus is the first ever educational artificial intelligence tool. It allows you to automate all of your school work so you can spend more time doing the things you love! [FREE]
 - [WorldTune](https://www.wordtune.com/) - Everyone has tons of work to get through. Some accept the frustration. Others choose Wordtune Generative AI to speed up their tasks. [FREE/PAID]
+- [LogicBalls](https://www.logicballs.com/) - LogicBalls is an AI tool that helps businesses create high-quality marketing content, product descriptions, ads, social media posts, and blog posts, making content creation faster and easier
+
 
 ## Video
 
@@ -55,6 +57,7 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 
 - [DeScript](https://www.descript.com/) - Descript is an audio and video editing platform that uses AI-powered transcription and editing tools to simplify the editing process. [FREE/PAID]
 - [EvenLabs](https://beta.elevenlabs.io/) - Elevenlabs specializes in natural-sounding speech synthesis and text-to-speech software, using artificial intelligence and deep learning. [FREE/PAID]
+- [Kveeky](https://www.kveeky.com/) -AI Voiceover Artist for Your Next Video.[FREE/PAID]
 
 
 ## Images
@@ -97,6 +100,8 @@ The growth of AI and ML has enabled the processing of vast amounts of data and i
 
 - [BlogSEO](https://www.blogseo.ai/) - BlogSEO AI lets you create holistic SEO content in 31 languages that drive organic traffic. [FREE/PAID]
 - [Seona AI](https://usestyle.ai/) - Your next digital marketing agency isn't an agency at all. Our AI tools make it easy to build and manage websites, SEO, and ad campaigns [FREE/PAID]
+- [Gracker AI](https://www.gracker.ai/) - AI Editorial and Programmatic SEO solution for B2B Cybersecurity SaaS companies.[FREE/PAID]
+
 
 ## Contributing
 
